@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="869050a3-9bc3-459f-8813-20a6f6f2e3c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/common/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setting.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mi/dang/DangSchoolApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mi/dang/dangschool/BootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mi/dang/dangschool/BootTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dang_school.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/lib/ojdbc8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/lib/ojdbc8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/lib/oraclepki.jar" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/lib/oraclepki.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/lib/osdt_cert.jar" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/lib/osdt_cert.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/lib/osdt_core.jar" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/lib/osdt_core.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/album/kindergarten/AlbumAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/album/kindergarten/AlbumAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/board/kindergarten/BoardAdd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/board/kindergarten/BoardAdd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/board/kindergarten/BoardList1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/board/kindergarten/BoardList1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/board/kindergarten/BoardModify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/board/kindergarten/BoardModify.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/board/kindergarten/BoardView1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/board/kindergarten/BoardView1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/board/student/BoardList2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/board/student/BoardList2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/board/student/BoardView2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/board/student/BoardView2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/common/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/common/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/diary/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/diary/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/diary/kindergardenView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/diary/kindergardenView.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/diary/mdfd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/diary/mdfd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/diary/userView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/diary/userView.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/diary/write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/diary/write.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/include/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/include/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/mail-temp/reservation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/mail-temp/reservation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/mail-temp/user_joincomplete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/mail-temp/user_joincomplete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/mail-temp/user_resetpassword.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/mail-temp/user_resetpassword.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/main/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/main/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/map/Infrm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/map/Infrm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/map/Map.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/map/Map.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/member/school/classmember.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/member/school/classmember.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/member/school/findschoolinfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/member/school/findschoolinfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/member/school/schoollogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/member/school/schoollogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/member/school/schoolprofile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/member/school/schoolprofile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/member/user/finduserinfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/member/user/finduserinfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/member/user/join.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/member/user/join.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/member/user/userlogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/member/user/userlogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/member/user/userprofile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/member/user/userprofile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/mypage/mypage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/mypage/mypage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/reservation/calendar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/reservation/calendar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/reservation/mngngRsrvt.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/reservation/mngngRsrvt.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/reservation/mngngRsrvt2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/reservation/mngngRsrvt2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/reservation/reservation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/reservation/reservation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/review/View.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/review/View.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/view/review/Write.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/view/review/Write.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/album.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/album.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/board.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/board.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/calendar/locales-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/calendar/locales-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/calendar/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/calendar/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/calendar/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/calendar/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/detail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/diaryView.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/diaryView.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/diaryWrite.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/diaryWrite.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/email.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/email.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/fontawesome-all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/images/arrow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/images/arrow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/images/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/images/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/images/arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/images/arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/images/bars.png" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/images/bars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/images/bars.svg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/images/bars.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/images/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/images/close.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/images/dang.png" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/images/dang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/infrm.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/infrm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/map.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/map.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/mdfd.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/mdfd.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/member.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/member.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/mngngRsrvt.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/mngngRsrvt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/mngngRsrvt2.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/mngngRsrvt2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/myPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/myPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/noscript.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/reservation.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/reservation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/view.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/view.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/css/write.css" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/write.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/images/absence.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/images/absence.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/images/absence.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/images/absence.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/images/dang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/images/dang.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/images/dang.png" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/images/dang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/breakpoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/browser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/common/asyncPageError.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/common/asyncPageError.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/common/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/common/urlEncoder.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/common/urlEncoder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/jquery.scrollex.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/jquery.scrollex.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/jquery.scrolly.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/jquery.scrolly.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/member.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/member.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/sass/libs/_html-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/sass/libs/_html-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/sass/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/sass/noscript.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/WebContent/resources/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/WebContent/resources/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/album/controller/AlbumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/album/controller/AlbumController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/album/model/dao/AlbumDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/album/model/dao/AlbumDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/album/model/service/AlbumService.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/album/model/service/AlbumService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/album/model/vo/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/album/model/vo/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/board/controller/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/board/controller/BoardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/board/model/dao/BoardDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/board/model/dao/BoardDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/board/model/service/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/board/model/service/BoardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/board/model/vo/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/board/model/vo/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/code/ConfigCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/code/ConfigCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/code/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/code/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/exception/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/exception/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/exception/DataAccessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/exception/DataAccessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/exception/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/exception/ExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/exception/ToAlertException.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/exception/ToAlertException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/filter/AuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/filter/AuthFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/filter/EncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/filter/EncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/jdbc/JDBCTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/jdbc/JDBCTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/mail/MailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/mail/MailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/mail/handler/MailHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/mail/handler/MailHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/random/RandomString.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/random/RandomString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/util/encoding/EncoingCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/util/encoding/EncoingCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/util/file/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/util/file/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/util/file/FileVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/util/file/FileVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/common/util/http/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/common/util/http/HttpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/diary/controller/DiaryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/diary/controller/DiaryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/diary/model/dao/DiaryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/diary/model/dao/DiaryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/diary/model/service/DiaryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/diary/model/service/DiaryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/diary/model/vo/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/diary/model/vo/Diary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/main/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/main/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/map/controller/MapController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/map/controller/MapController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/map/model/dao/MapDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/map/model/dao/MapDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/map/model/service/MapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/map/model/service/MapService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/map/model/vo/Kindergarten.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/map/model/vo/Kindergarten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/map/model/vo/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/map/model/vo/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/member/school/controller/SchoolController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/member/school/controller/SchoolController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/member/school/model/dao/SchoolDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/member/school/model/dao/SchoolDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/member/school/model/service/SchoolService.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/member/school/model/service/SchoolService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/member/school/model/vo/SchoolMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/member/school/model/vo/SchoolMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/member/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/member/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/member/user/model/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/member/user/model/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/member/user/model/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/member/user/model/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/member/user/model/vo/UserMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/member/user/model/vo/UserMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/reservation/controller/ReservationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/reservation/controller/ReservationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/reservation/model/dao/ReservationDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/reservation/model/dao/ReservationDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/reservation/model/service/ReservationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/reservation/model/service/ReservationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/reservation/model/vo/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/reservation/model/vo/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/review/controller/reviewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/review/controller/reviewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/review/model/dao/ReviewDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/review/model/dao/ReviewDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/review/model/service/ReviewService.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/review/model/service/ReviewService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangdang/src/com/dang/review/model/vo/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/previous/dangdang/src/com/dang/review/model/vo/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/upload/2021/2/2/100000/dang1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/resources/upload/2021/2/2/100000/dang1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/upload/2021/2/2/100000/dang2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/previous/resources/upload/2021/2/2/100000/dang2.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BTRNShocQW3xLvAkc3lbDBfqJc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "adopt-1.8",
+    "last_opened_file_path": "/Users/miyoung/Desktop/ebrainsoft_study/personal_project/dangschool/dang_school/src/test/java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server-side/user" />
+      <recent name="$PROJECT_DIR$/previous" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mi.dang.dangschool" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.BootTestController.bootTest">
+    <configuration name="BootTestController.bootTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.mi.dang.dangschool.BootTestController.bootTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BootTestController.bootTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dang_school.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mi.dang.dangschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mi.dang.dangschool" />
+      <option name="MAIN_CLASS_NAME" value="com.mi.dang.dangschool.BootTestController" />
+      <option name="METHOD_NAME" value="bootTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DangSchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dang_school.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mi.dang.DangSchoolApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mi.dang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.BootTestController.bootTest" />
+        <item itemvalue="JUnit.BootTestController.bootTest" />
+        <item itemvalue="Spring Boot.DangSchoolApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="869050a3-9bc3-459f-8813-20a6f6f2e3c0" name="Changes" comment="" />
+      <created>1656928047911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656928047911</updated>
+      <workItem from="1656928049700" duration="26000" />
+      <workItem from="1656928084981" duration="2510000" />
+      <workItem from="1657180614896" duration="1810000" />
+      <workItem from="1657333012926" duration="2924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
