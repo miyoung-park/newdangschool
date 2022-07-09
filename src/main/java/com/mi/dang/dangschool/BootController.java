@@ -5,8 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class BootController {
-
-
+    
     @GetMapping("/hello")
     public String returnResult(){
         String hello = "hello";
