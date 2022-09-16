@@ -30,31 +30,28 @@ subprojects{
     }
 
     // 프로젝트 개발에 필요한 의존성들을 선언
+    // 하위 모듈에서 공통으로 사용할 dependencies
     dependencies {
         implementation('org.springframework.boot:spring-boot-starter-web') // spring boot
         testImplementation('org.springframework.boot:spring-boot-starter-test')
         compileOnly('org.projectlombok:lombok')
         annotationProcessor('org.projectlombok:lombok')
-
     }
+}
 
+project(':server-side:common') {
 
-    project(':server-side:common') {
-        dependencies {
+}
 
-        }
+project(':server-side:admin') {
+    dependencies {
+        compileOnly project(':server-side:common')
     }
+}
 
-    project(':server-side:admin') {
-        dependencies {
-            compileOnly project(':server-side:common')
-        }
-    }
-
-    project(':server-side:user') {
-        dependencies {
-            compileOnly project(':server-side:common')
-        }
+project(':server-side:user') {
+    dependencies {
+        compileOnly project(':server-side:common')
     }
 }
 
