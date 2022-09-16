@@ -1,4 +1,6 @@
 rootProject.name = 'dang-school'
+
 include 'server-side:admin'
 include 'server-side:common'
 include 'server-side:user'
+
